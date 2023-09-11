@@ -1,4 +1,4 @@
-# UniversalRobots-SiemensLogo
+# Universal Robots-Siemens Logo8!
 
 Example how to connect to Universal Robots with Siemens Logo8! 
 
